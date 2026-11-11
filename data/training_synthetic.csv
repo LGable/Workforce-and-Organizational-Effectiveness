@@ -1,0 +1,31 @@
+synthetic_staff_id,attended,assessed,passed_if_assessed,followup_status
+DEMO-001,1,1,1,Observed
+DEMO-002,1,0,,Observed
+DEMO-003,1,1,1,Pending
+DEMO-004,1,1,0,Observed
+DEMO-005,1,0,,Pending
+DEMO-006,0,0,,Not due
+DEMO-007,1,0,,Not due
+DEMO-008,1,1,1,Observed
+DEMO-009,1,1,1,Observed
+DEMO-010,1,1,1,Pending
+DEMO-011,1,1,1,Observed
+DEMO-012,1,1,1,Pending
+DEMO-013,1,1,1,Not due
+DEMO-014,1,0,,Not due
+DEMO-015,0,0,,Pending
+DEMO-016,1,1,0,Pending
+DEMO-017,1,1,1,Observed
+DEMO-018,1,1,1,Observed
+DEMO-019,1,1,1,Not due
+DEMO-020,1,0,,Pending
+DEMO-021,1,1,1,Pending
+DEMO-022,1,1,0,Pending
+DEMO-023,1,1,1,Observed
+DEMO-024,1,1,1,Pending
+DEMO-025,1,0,,Pending
+DEMO-026,1,1,1,Not due
+DEMO-027,1,1,1,Pending
+DEMO-028,0,0,,Not due
+DEMO-029,1,1,1,Not due
+DEMO-030,1,0,,Pending
