@@ -2,7 +2,7 @@
 
 **Type:** Owner-reported improvement portfolio; measurement needs verification.
 
-I introduced Asana task tracking for clinical documents, milestones, and protocol rollout, plus Slack communication patterns for post-consult follow-up. Preliminary reported observations: three fewer missed tasks and a **72% improvement in effective protocol implementation** after consultation.
+I introduced Asana task tracking for clinical documents, milestones, and protocol rollout, plus Slack communication patterns for post-consult follow-up. Preliminary observations included three fewer missed tasks and improved protocol implementation after consultation. A numerical percentage is not published here because the available materials do not specify the denominator, period, or whether the change was relative or percentage points.
 
 ## Measurement specification to adopt before public quantification
 
@@ -13,4 +13,4 @@ I introduced Asana task tracking for clinical documents, milestones, and protoco
 - Monitor implementation *quality* separately from acknowledgment and task completion.
 - Safety: avoid collecting student/patient identifiers into nonapproved systems.
 
-The historical 72% is **not an independently verified causal effect** and should not be reconstructed into an invented sample size.
+The preliminary observation is **not an independently verified causal effect** and should not be reconstructed into an invented sample size.
