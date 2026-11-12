@@ -2,7 +2,7 @@
 
 **Type:** Owner-reported improvement portfolio; measurement needs verification.
 
-The owner introduced Asana task tracking for clinical documents, milestones and protocol rollout, plus Slack communication patterns for post-consult follow-up. Preliminary reported observations: three fewer missed tasks and a **72% improvement in effective protocol implementation** after consultation.
+I introduced Asana task tracking for clinical documents, milestones, and protocol rollout, plus Slack communication patterns for post-consult follow-up. Preliminary reported observations: three fewer missed tasks and a **72% improvement in effective protocol implementation** after consultation.
 
 ## Measurement specification to adopt before public quantification
 

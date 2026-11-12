@@ -2,7 +2,7 @@
 
 **Type:** Historical implementation summary, with fictional training-record demonstration.
 
-At a school-based clinical organization, the owner reports coordinating sensory protocol education for **27 staff**, documenting **15 successful return demonstrations**, and establishing **seven classroom-level implementation owners**. This demonstrates cross-functional rollout, competency observation and ongoing ownership.
+At a school-based clinical organization, I coordinated sensory protocol education for **27 staff**, documented **15 successful return demonstrations**, and established **seven classroom-level implementation owners**. This demonstrates cross-functional rollout, competency observation, and ongoing ownership.
 
 ## Measurement design
 

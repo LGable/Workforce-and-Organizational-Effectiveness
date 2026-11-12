@@ -2,7 +2,7 @@
 
 **Type:** Professional narrative + synthetic staffing scenario.
 
-In a prior inpatient role, the owner reports reviewing approximately three months of staffing utilization and contractor contributions to prepare a leadership recommendation regarding lower-value contract staffing hours. A recommendation to reduce hours is not the same as payroll savings unless changed hours and actual loaded costs are documented.
+In a prior inpatient role, I reviewed approximately three months of staffing utilization and contractor contributions to prepare a leadership recommendation regarding lower-value contract staffing hours. A recommendation to reduce hours is not the same as payroll savings unless changed hours and actual loaded costs are documented.
 
 ## Example model
 
