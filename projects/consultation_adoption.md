@@ -1,6 +1,6 @@
 # Consultation Implementation & Change Adoption
 
-**Type:** Owner-reported improvement portfolio; measurement needs verification.
+**Type:** Historical improvement portfolio with preliminary observations.
 
 I introduced Asana task tracking for clinical documents, milestones, and protocol rollout, plus Slack communication patterns for post-consult follow-up. Preliminary observations included three fewer missed tasks and improved protocol implementation after consultation. A numerical percentage is not published here because the available materials do not specify the denominator, period, or whether the change was relative or percentage points.
 
